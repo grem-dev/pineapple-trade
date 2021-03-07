@@ -1,0 +1,6 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/grem-dev/node-auth-system
+[submodule "zap-core"]
+	path = api/core
+	url = https://github.com/grem-dev/zap-core

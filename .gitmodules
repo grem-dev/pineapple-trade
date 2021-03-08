@@ -4,3 +4,6 @@
 [submodule "zap-core"]
 	path = api/core
 	url = https://github.com/grem-dev/zap-core
+[submodule "panel/core"]
+	path = panel/core
+	url = http://github.com/grem-dev/zap-core
